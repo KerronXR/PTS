@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Agrms</string>
+    <string name="prefLoginState">login state</string>
+    <string name="enter_image_name">Enter Image Name</string>
+    <string name="facebook_app_id">274102103988023</string>
+    <string name="fb_login_protocol_scheme">fb274102103988023</string>
+    <string name="uploadImages">Set your image</string>
+    <string name="msg_loading">Loading…</string>
+    <string name="buffering_string">Buffering&#8230;</string>
+    <string name="toast_message">Playback completed.</string>
+    <string name="pick_file">Pick file</string>
+    <string name="upload_file">Upload file</string>
+    <string name="toast_pick_file_error">Unable to pick file. Check status of file manager.</string>
+    <string name="start_road_scan">start road scan</string>
+    <string name="upload_photo_of_road_hole">upload photo of road hole</string>
+    <string name="pothole_map">pothole map</string>
+    <string name="about_us">about us</string>
+    <string name="log_out">logout</string>
+    <string name="anonymous">Anonymous</string>
+    <string name="keep_me_logged_in">Keep Me Logged In</string>
+    <string name="password_hint">Password</string>
+    <string name="log_in_text">Log in</string>
+    <string name="user_register">Register</string>
+    <string name="upload_captured_image_on_server">Upload Captured Image On Server</string>
+    <string name="select_image">Select Image</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="user_name">User Name</string>
+    <string name="user_email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+</resources>

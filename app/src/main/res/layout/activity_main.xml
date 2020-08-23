@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/colorWhite"
+              android:orientation="vertical"
+              android:padding="50dp"
+              tools:context=".MainActivity">
+
+    <ImageView
+            android:contentDescription="@string/app_name"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="0dp"
+            android:src="@drawable/agrremovebgpreview"/>
+
+
+    <Button
+            android:id="@+id/btn_roadActivity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="30dp"
+            android:background="@drawable/button_rounded"
+            android:text="@string/start_road_scan"
+            android:textColor="@color/colorBlack"/>
+
+    <Button
+            android:id="@+id/btn_upload_image"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="30dp"
+            android:background="@drawable/button_rounded"
+            android:text="@string/upload_photo_of_road_hole"
+            android:textColor="@color/colorBlack"/>
+
+    <Button
+            android:id="@+id/btn_hole_locations"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="30dp"
+            android:background="@drawable/button_rounded"
+            android:text="@string/pothole_map"
+            android:textColor="@color/colorBlack"/>
+
+    <Button
+            android:id="@+id/About_uS"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="30dp"
+            android:background="@drawable/button_rounded"
+            android:text="@string/about_us"
+            android:textColor="@color/colorBlack"/>
+
+    <Button
+            android:id="@+id/btn_logout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="30dp"
+            android:background="@drawable/button_rounded"
+            android:text="@string/log_out"
+            android:textColor="@color/colorBlack"/>
+
+
+</LinearLayout>
+

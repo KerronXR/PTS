@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "132977295461",
+    "firebase_url": "https://agrms-286117.firebaseio.com",
+    "project_id": "agrms-286117",
+    "storage_bucket": "agrms-286117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132977295461:android:25e1940e32e1ee1c6ec68c",
+        "android_client_info": {
+          "package_name": "com.example.potholetrackingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132977295461-fieajldricen783gfpk69s2os3sme6qq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.potholetrackingsystem",
+            "certificate_hash": "ee63f6340d77d2d555c1f0466c5a5502feb27f8b"
+          }
+        },
+        {
+          "client_id": "132977295461-j02hc0d9mu9j2q8vdbos53bkhnhe7mi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDWo54ovxnXiEc60V9pMLTVISqxAxUphE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132977295461-j02hc0d9mu9j2q8vdbos53bkhnhe7mi4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
