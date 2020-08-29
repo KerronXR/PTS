@@ -73,7 +73,7 @@ public class ImageUploader extends AppCompatActivity {
             protected Map<String, DataPart> getByteData() {
                 Map<String, DataPart> params = new HashMap<>();
                 long current_time_in_millis = System.currentTimeMillis();
-                String current_time = DateFormat.getDateTimeInstance().format(new Date(current_time_in_millis));
+                String current_time = String.valueOf(current_time_in_millis);
                 params.put("image", new VolleyMultipartRequest.DataPart(current_time + "." + (new Random().nextInt(1000000))
                         + ".png", getFileDataFromDrawable(selected_bitmap)));
                 return params;
